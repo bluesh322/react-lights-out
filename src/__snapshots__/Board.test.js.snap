@@ -1,0 +1,139 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`snapshot test for Carousel component when all lights are lit 1`] = `
+<DocumentFragment>
+  <table
+    class="Board"
+  >
+    <thead>
+      <tr>
+        <th>
+          Lights Out Game
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td
+          class="Cell Cell-lit"
+          role="button"
+        />
+        <td
+          class="Cell Cell-lit"
+          role="button"
+        />
+        <td
+          class="Cell Cell-lit"
+          role="button"
+        />
+        <td
+          class="Cell Cell-lit"
+          role="button"
+        />
+        <td
+          class="Cell Cell-lit"
+          role="button"
+        />
+      </tr>
+      <tr>
+        <td
+          class="Cell Cell-lit"
+          role="button"
+        />
+        <td
+          class="Cell Cell-lit"
+          role="button"
+        />
+        <td
+          class="Cell Cell-lit"
+          role="button"
+        />
+        <td
+          class="Cell Cell-lit"
+          role="button"
+        />
+        <td
+          class="Cell Cell-lit"
+          role="button"
+        />
+      </tr>
+      <tr>
+        <td
+          class="Cell Cell-lit"
+          role="button"
+        />
+        <td
+          class="Cell Cell-lit"
+          role="button"
+        />
+        <td
+          class="Cell Cell-lit"
+          role="button"
+        />
+        <td
+          class="Cell Cell-lit"
+          role="button"
+        />
+        <td
+          class="Cell Cell-lit"
+          role="button"
+        />
+      </tr>
+      <tr>
+        <td
+          class="Cell Cell-lit"
+          role="button"
+        />
+        <td
+          class="Cell Cell-lit"
+          role="button"
+        />
+        <td
+          class="Cell Cell-lit"
+          role="button"
+        />
+        <td
+          class="Cell Cell-lit"
+          role="button"
+        />
+        <td
+          class="Cell Cell-lit"
+          role="button"
+        />
+      </tr>
+      <tr>
+        <td
+          class="Cell Cell-lit"
+          role="button"
+        />
+        <td
+          class="Cell Cell-lit"
+          role="button"
+        />
+        <td
+          class="Cell Cell-lit"
+          role="button"
+        />
+        <td
+          class="Cell Cell-lit"
+          role="button"
+        />
+        <td
+          class="Cell Cell-lit"
+          role="button"
+        />
+      </tr>
+    </tbody>
+  </table>
+</DocumentFragment>
+`;
+
+exports[`snapshot test for when none of the lights are lit --> You Win! 1`] = `
+<DocumentFragment>
+  <div>
+    <h1>
+      You Won!
+    </h1>
+  </div>
+</DocumentFragment>
+`;

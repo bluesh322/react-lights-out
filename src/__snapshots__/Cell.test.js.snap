@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`snapshot test for Carousel component 1`] = `
+<DocumentFragment>
+  <td
+    class="Cell "
+    role="button"
+  />
+</DocumentFragment>
+`;
